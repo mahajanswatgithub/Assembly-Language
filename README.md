@@ -53,7 +53,7 @@ The above statements will show the value present in the corresponding registers.
   Here is Output:
 ![image](image.PNG)
 
-Thank You .....
+
 
 
 
